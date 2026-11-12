@@ -13,7 +13,7 @@ Graduanda em Sistemas de Informação (UGB) e estagiária de Suporte e Implanta�
 
 ## Projetos em destaque
 - **Igreja App:** plataforma SaaS multi-tenant de gestão de igrejas, com mais de 140 telas *(repositório privado — demonstração sob solicitação)*
-- **PedevApp:** sistema de frente de caixa (PDV) para mercados, em desenvolvimento *(repositório privado)*
+- **[PedevApp](https://github.com/brunett06/PedevApp-demo):** sistema de frente de caixa (PDV) e gestão para mercearias, com validade por lote e ajudante com IA — [▶️ ver vídeo com as telas reais](https://github.com/brunett06/PedevApp-demo)
 - **AutIA Shop:** automação de gestão de lojas em marketplaces *(repositório privado)*
 - **[Fogo & Água](https://github.com/brunett06/fogo-e-agua):** jogo cooperativo para 2 jogadores em JavaScript e jQuery — [jogar online](https://brunett06.github.io/fogo-e-agua/)
 
@@ -48,7 +48,7 @@ Information Systems undergraduate (UGB, Brazil) and ERP Implementation & Support
 
 ### Featured projects
 - **Igreja App:** multi-tenant SaaS platform for church management, with 140+ screens *(private repository — demo available on request)*
-- **PedevApp:** point-of-sale (POS) system for grocery stores, in development *(private repository)*
+- **[PedevApp](https://github.com/brunett06/PedevApp-demo):** point-of-sale (POS) and management system for small grocery stores, with batch expiration tracking and an AI assistant — [▶️ watch the demo video](https://github.com/brunett06/PedevApp-demo)
 - **AutIA Shop:** store management automation for online marketplaces *(private repository)*
 - **[Fire & Water](https://github.com/brunett06/fogo-e-agua):** 2-player co-op game in JavaScript and jQuery — [play online](https://brunett06.github.io/fogo-e-agua/)
 
